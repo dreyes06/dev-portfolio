@@ -23,7 +23,8 @@ export const aboutData = {
   paragraphTwo:
     'After taking the advice of a close friend, I decided to pursue a career in web development by attending a 13 week bootcamp at Dev Mountain. In the begining of the course I felt so behind the level of experience that I would eventually come to, but after many long nights and games of ping-pong (yes, I know, ping-pong) I became a full-stack developer with real experience in an immersive and remote setting.',
   paragraphThree: 'Below are projects from my time at Dev Mountain in chronological order. Enjoy.',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume:
+    'https://docs.google.com/document/d/1DT4x_Gsi-04GUxoAWkUIcaIDvSz9hsNJTY17UBfuvSY/edit?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
